@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: tahoma;
+    text-align: center;
+    
+    
+}
+
+
+
+.bulb-contaniner{
+    margin: 50px;
+    padding: 25px;
+    border: 1px;
+    text-align: center;
+}
